@@ -215,7 +215,7 @@ end)
 
 print(" --------")
 print(" SimpleCheatGUI")
-print(" Made by Tux")
+print(" Made by Tux and Intos")
 print(" --------")
 
 
